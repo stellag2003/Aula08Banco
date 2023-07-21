@@ -1,0 +1,7 @@
+C:\Users\stella.gmendonca\source\repos\AtividadeAula08\AtividadeAula08\bin\Debug\AtividadeAula08.exe.config
+C:\Users\stella.gmendonca\source\repos\AtividadeAula08\AtividadeAula08\bin\Debug\AtividadeAula08.exe
+C:\Users\stella.gmendonca\source\repos\AtividadeAula08\AtividadeAula08\bin\Debug\AtividadeAula08.pdb
+C:\Users\stella.gmendonca\source\repos\AtividadeAula08\AtividadeAula08\obj\Debug\AtividadeAula08.csproj.AssemblyReference.cache
+C:\Users\stella.gmendonca\source\repos\AtividadeAula08\AtividadeAula08\obj\Debug\AtividadeAula08.csproj.CoreCompileInputs.cache
+C:\Users\stella.gmendonca\source\repos\AtividadeAula08\AtividadeAula08\obj\Debug\AtividadeAula08.exe
+C:\Users\stella.gmendonca\source\repos\AtividadeAula08\AtividadeAula08\obj\Debug\AtividadeAula08.pdb
